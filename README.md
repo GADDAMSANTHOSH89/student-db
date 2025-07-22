@@ -1,4 +1,5 @@
-📝 Student Database Management App
+📝 Student Database Management 
+
 A lightweight, console‑based Student Database application built with Python and SQLite.
 Perform essential CRUD operations on student records through an intuitive text‑menu interface.
 
